@@ -6,7 +6,7 @@ strength = 0
 agility = 0
 intelligence = 0
 total_points = 10
-
+level = 1
 game_over = """
   ▄▀  ██   █▀▄▀█ ▄███▄       ████▄     ▄   ▄███▄   █▄▄▄▄ 
 ▄▀    █ █  █ █ █ █▀   ▀      █   █      █  █▀   ▀  █  ▄▀ 
