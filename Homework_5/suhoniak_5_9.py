@@ -11,4 +11,4 @@ variants = len(prods)
 
 print(variants)
 
-# https://www.eolymp.com/uk/submissions/15406115 (50%)
+# https://www.eolymp.com/uk/submissions/15419255
